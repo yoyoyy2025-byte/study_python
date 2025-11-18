@@ -7,6 +7,7 @@ first = 4
 second = 6
 
 first = int(input("input first number: "))
+
 second = int(input("input second number: "))
 if first >= second : 
     print("welcome to the rollercoaster!")

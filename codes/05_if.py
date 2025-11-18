@@ -1,4 +1,4 @@
-실습 if 문
+#실습 if 문
 first = 4
 # if first >= 5 :
 #     print("welcome to the rollercoaster!")

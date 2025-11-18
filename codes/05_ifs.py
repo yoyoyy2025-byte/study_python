@@ -32,5 +32,5 @@
 pass
 fourth = "welcome to python!"
 fourth_word = "python"
-if fourth_word = "python" in "welcome to python!" :
+if fourth_word ="python" in "welcome to python!" :
     print("Yes, 'python' is here!")

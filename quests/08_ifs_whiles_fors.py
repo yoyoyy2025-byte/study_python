@@ -19,7 +19,7 @@
 #def to_celsius(temp):
 #    return (temp - 32) * 5 / 9
 #temp = 100
-#value = to_celsius(temp)
+#value = to_celsius(temp)# 변수로 temp를 넣고 값을 채워줌
 #print(value)
 
 

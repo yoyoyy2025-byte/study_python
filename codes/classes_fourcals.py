@@ -1,11 +1,18 @@
 # class class_name():
 
 
-
 class Fourcal:
 
+    first = 0
+    second = 0
+
+    def __init__(self):
+        self.first = 4
+        self.second = 6
+        pass
+
     def add(self, a, b):
-        return a + b
+        return a + b 
     def sub(self, a, b):
         return a - b
     def mul(self, a, b):
